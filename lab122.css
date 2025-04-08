@@ -1,0 +1,13 @@
+.maindiv{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+.maindiv iframe{
+    height: 100%;
+    width: 80%;
+}
+.menu{
+    width: 20%;
+    height: 100%;
+}
